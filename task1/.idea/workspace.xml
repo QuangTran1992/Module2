@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c021580-8ced-4cfa-8b8c-3d250905ca2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../task 2/src/HinhChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task 2/src/SonguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task 2/src/UocChungMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../To-khai-y-te" beforeDir="false" afterPath="$PROJECT_DIR$/../../To-khai-y-te" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[CodeGym]_C0221H1_TRAN-MINH-QUANG_Báo cáo tuần 3.pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module1-part2" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1-part2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module1-part3" beforeDir="false" afterPath="$PROJECT_DIR$/../../module1-part3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qW4Uhz7h49utrSV7n81i32rNSb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c021580-8ced-4cfa-8b8c-3d250905ca2c" name="Default Changelist" comment="" />
+      <created>1617182029885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617182029885</updated>
+      <workItem from="1617182031231" duration="100000" />
+      <workItem from="1617182314329" duration="418000" />
+      <workItem from="1617183044466" duration="171000" />
+      <workItem from="1617259110941" duration="9000" />
+      <workItem from="1617259160766" duration="22000" />
+      <workItem from="1617259242581" duration="2000" />
+      <workItem from="1617259250326" duration="2000" />
+      <workItem from="1617259268790" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
